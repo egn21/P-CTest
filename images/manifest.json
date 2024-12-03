@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://egn21.github.io/P-CTest/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in egn21/P-CTest project"
+        ]
+    },
+    "items": []
+}
