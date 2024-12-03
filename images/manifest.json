@@ -7,5 +7,87 @@
             "All images loaded in egn21/P-CTest project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://egn21.github.io/P-CTest/images/Erik_Jelling/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Erik_Jelling"
+                ]
+            },
+            "height": 1452,
+            "width": 938,
+            "items": [
+                {
+                    "id": "https://egn21.github.io/P-CTest/images/Erik_Jelling/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://egn21.github.io/P-CTest/images/Erik_Jelling/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://egn21.github.io/P-CTest/images/Erik_Jelling/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 30,
+                                                "height": 46
+                                            },
+                                            {
+                                                "width": 59,
+                                                "height": 91
+                                            },
+                                            {
+                                                "width": 118,
+                                                "height": 182
+                                            },
+                                            {
+                                                "width": 235,
+                                                "height": 363
+                                            },
+                                            {
+                                                "width": 469,
+                                                "height": 726
+                                            },
+                                            {
+                                                "width": 938,
+                                                "height": 1452
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 938,
+                                        "@id": "https://egn21.github.io/P-CTest/images/Erik_Jelling",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1452,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://egn21.github.io/P-CTest/images/Erik_Jelling/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
